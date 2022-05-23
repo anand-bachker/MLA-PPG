@@ -23,7 +23,7 @@ Num.,subject_ID,Sex(M/F),Age(year),Height(cm),Weight(kg),Systolic Blood Pressure
 22,27,Male,51,170,70,115,64,103,24.22,Normal,,,
 23,29,Male,51,170,60,129,81,91,20.76,Prehypertension,,,
 24,30,Male,80,170,70,173,90,73,24.22,Stage 2 hypertension,,,
-25,31,Female,66,150,57,182,102,81,25.33,Stage 2 hypertension,Diabetes,,
+25,31,Female,66,150,57,182,102,81,25.33,Stage 2 hypertension,Type 2 Diabetes,,
 26,32,Male,44,170,65,110,64,66,22.49,Normal,,cerebral infarction,
 27,34,Female,59,151,48,139,85,80,21.05,Prehypertension,,,
 28,35,Male,60,169,71,153,72,85,24.86,Stage 1 hypertension,,,
